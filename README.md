@@ -2,7 +2,7 @@
 
 A Minecraft-style voxel world set in **ancient Rome, 79 AD** — built from scratch in JavaScript and playable in the browser. Explore the forum, climb the temple steps, watch gladiators train in the Colosseum, and meet citizens who live their own lives.
 
-![ROMACRAFT — the forum at golden hour](docs/screenshot.jpg)
+![ROMACRAFT — Rome demo view](docs/rome-demo-view.jpg)
 
 ## ▶️ Play
 
@@ -20,10 +20,6 @@ Or build a single double-clickable HTML file (no server needed at all):
 python build_standalone.py   # -> ROMACRAFT-standalone.html (~1.4 MB)
 ```
 
-![Rome demo view](docs/rome-demo-view.jpg)
-
-*Rome demo view.*
-
 ## The city
 
 A hand-laid 168×168 voxel Rome behind defensive walls:
@@ -36,10 +32,6 @@ A hand-laid 168×168 voxel Rome behind defensive walls:
 ## Citizens with lives of their own
 
 Fifteen NPCs with their own routines: legionaries patrol the via in formation, merchants hawk olives and figs, a priestess tends the temple, senator Marcus commutes to the basilica, the architect Vitruvius inspects his buildings, a gladiator trains in the arena, children race around the fountain, goats graze the gardens. They greet you when you come close — and stop to chat with each other.
-
-![Legionary Gaius on patrol stops you on the via](docs/demo-view.jpg)
-
-*Stopped on the via by Legionary Gaius — shield, spear and crested helmet.*
 
 ## Controls
 

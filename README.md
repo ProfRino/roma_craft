@@ -20,6 +20,10 @@ Or build a single double-clickable HTML file (no server needed at all):
 python build_standalone.py   # -> ROMACRAFT-standalone.html (~1.4 MB)
 ```
 
+![Rome demo view — walking the via toward the forum, stopped by Legionary Gaius](docs/demo-view.jpg)
+
+*Rome demo view — walking the via toward the forum gate, stopped by a legionary on patrol.*
+
 ## The city
 
 A hand-laid 168×168 voxel Rome behind defensive walls:

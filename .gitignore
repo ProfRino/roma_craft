@@ -1,0 +1,8 @@
+# downloaded reference images (not redistributable)
+/*.jpg
+/*.png
+
+# build artifacts
+ROMACRAFT-standalone.html
+__pycache__/
+*.pyc

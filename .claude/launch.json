@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "romacraft",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-u", "serve.py"],
+      "port": 8744
+    }
+  ]
+}

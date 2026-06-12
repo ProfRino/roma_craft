@@ -58,12 +58,17 @@ Pure client-side JavaScript — no build step, no dependencies to install:
 - Procedural WebAudio sound (blocks, birds, NPC chatter)
 - NPC AI: waypoint routes, wandering, auto-stepping, proximity greetings and paired conversations
 
-## Credits
-
-Created by **Rino Lovreglio** with [Claude Code](https://claude.com/claude-code). Three.js is MIT-licensed. This is a fan-made educational project inspired by Minecraft; it is not affiliated with or endorsed by Mojang or Microsoft.
-
 ## Video
 
 [![ROMACRAFT gameplay video](https://img.youtube.com/vi/4NyETerrwfg/maxresdefault.jpg)](https://www.youtube.com/watch?v=4NyETerrwfg)
 
 ▶ [Watch ROMACRAFT in action on YouTube](https://www.youtube.com/watch?v=4NyETerrwfg)
+
+## Citation
+
+If you use this tool in published work, please cite:
+
+> Lovreglio, R. *ROMACRAFT*. Massey University.
+> https://github.com/ProfRino/roma_craft
+
+*Created with [Claude Code](https://claude.com/claude-code). Three.js is MIT-licensed. This is a fan-made educational project inspired by Minecraft; it is not affiliated with or endorsed by Mojang or Microsoft.*

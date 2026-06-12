@@ -61,3 +61,9 @@ Pure client-side JavaScript — no build step, no dependencies to install:
 ## Credits
 
 Created by **Rino Lovreglio** with [Claude Code](https://claude.com/claude-code). Three.js is MIT-licensed. This is a fan-made educational project inspired by Minecraft; it is not affiliated with or endorsed by Mojang or Microsoft.
+
+## Video
+
+[![ROMACRAFT gameplay video](https://img.youtube.com/vi/4NyETerrwfg/maxresdefault.jpg)](https://www.youtube.com/watch?v=4NyETerrwfg)
+
+▶ [Watch ROMACRAFT in action on YouTube](https://www.youtube.com/watch?v=4NyETerrwfg)
